@@ -3,6 +3,6 @@
 namespace TelegramBot.Command;
 
 public interface ICommandFactory
-{
-    public ICommand Create(Message message);
+{ 
+    ICommand Create(Message message);
 }

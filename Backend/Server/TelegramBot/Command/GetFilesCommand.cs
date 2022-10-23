@@ -1,5 +1,4 @@
-﻿using Domain.Model;
-using Domain.Services;
+﻿using Domain.Services;
 using Telegram.Bot;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.InputFiles;

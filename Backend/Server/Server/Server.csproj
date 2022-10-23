@@ -31,7 +31,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers" />
       <Folder Include="File" />
       <Folder Include="Migrations" />
     </ItemGroup>

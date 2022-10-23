@@ -13,8 +13,7 @@ public class ConvertService : IConverterService
     {
         _ironOptions = ironOptions;
     }
-
-
+    
     public Stream ToPdf(string text)
     {
         IronPdf.License.LicenseKey = _ironOptions.Value.Key;

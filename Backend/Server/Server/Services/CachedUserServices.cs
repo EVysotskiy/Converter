@@ -1,9 +1,6 @@
-﻿using System.Threading.Tasks;
-using Domain.Model;
-using Domain.Models;
+﻿using Domain.Model;
 using Domain.Services;
 using Microsoft.Extensions.Caching.Memory;
-using Microsoft.Extensions.Logging;
 using Server.Extensions;
 
 namespace Server.Services
